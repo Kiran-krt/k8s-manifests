@@ -19,7 +19,7 @@ spec:
       containers:
       - name: nodejs
 
-        image: kiranthorat8419/nodejs-app:16
+        image: kiranthorat8419/nodejs-app:17
 
         ports:
         - containerPort: 3000
